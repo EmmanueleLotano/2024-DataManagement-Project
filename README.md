@@ -1,6 +1,7 @@
 # 2024-DataManagement-Project
 
 Data Management Project for year 2024
+
 Exploring the relationship between pollution and weather conditions: an European analysis
 
 
